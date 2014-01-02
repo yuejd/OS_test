@@ -3,7 +3,7 @@ CYLS	EQU		10
 
 		JMP		entry
 		DB		0x90
-		DB		"HARIBOTE"	
+		DB		"MY OS"	
 		DW		512			
 		DB		1			
 		DW		1			
@@ -18,7 +18,7 @@ CYLS	EQU		10
 		DD		2880		
 		DB		0,0,0x29	
 		DD		0xffffffff	
-		DB		"HARIBOTEOS "
+		DB		"MY OS "
 		DB		"FAT12   "	
 		times 	18 	db 0
 
