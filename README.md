@@ -26,5 +26,7 @@ This is a test for 'Operating System', it's consist of two parts:
  gcc, ld, nasm, binutils... Recompile them by self in OSX.
  Bochs is the virtual machine for os testing.
 
-* #####  read Makefile to get the further imformation about the Os *
+ * #####  read Makefile to get the further imformation about the Os 
+
+
 
