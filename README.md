@@ -1,8 +1,9 @@
 ## my OS
 
-This is a test for 'Operating System',it's consist of two parts:
+This is a test for 'Operating System', it's consist of two parts:
 
  * ####  Bootloader and Init
+
   they are  nasm files
 
 > bootloader.asm
@@ -11,6 +12,7 @@ This is a test for 'Operating System',it's consist of two parts:
 
 
  * ####  OS Kernel
+
    they are nasm function files and C kernel files
 
 > asm_func.asm
@@ -24,5 +26,5 @@ This is a test for 'Operating System',it's consist of two parts:
  gcc, ld, nasm, binutils... Recompile them by self in OSX.
  Bochs is the virtual machine for os testing.
 
-#####  *read Makefile to get the further imformation about the Os *
+#####  * read Makefile to get the further imformation about the Os *
 
